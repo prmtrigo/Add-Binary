@@ -1,0 +1,15 @@
+C:\Users\trigo\Programação\C#\Add-Binary\obj\Debug\net7.0\Add-Binary.csproj.AssemblyReference.cache
+C:\Users\trigo\Programação\C#\Add-Binary\obj\Debug\net7.0\Add-Binary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trigo\Programação\C#\Add-Binary\obj\Debug\net7.0\Add-Binary.AssemblyInfoInputs.cache
+C:\Users\trigo\Programação\C#\Add-Binary\obj\Debug\net7.0\Add-Binary.AssemblyInfo.cs
+C:\Users\trigo\Programação\C#\Add-Binary\obj\Debug\net7.0\Add-Binary.csproj.CoreCompileInputs.cache
+C:\Users\trigo\Programação\C#\Add-Binary\bin\Debug\net7.0\Add-Binary.exe
+C:\Users\trigo\Programação\C#\Add-Binary\bin\Debug\net7.0\Add-Binary.deps.json
+C:\Users\trigo\Programação\C#\Add-Binary\bin\Debug\net7.0\Add-Binary.runtimeconfig.json
+C:\Users\trigo\Programação\C#\Add-Binary\bin\Debug\net7.0\Add-Binary.dll
+C:\Users\trigo\Programação\C#\Add-Binary\bin\Debug\net7.0\Add-Binary.pdb
+C:\Users\trigo\Programação\C#\Add-Binary\obj\Debug\net7.0\Add-Binary.dll
+C:\Users\trigo\Programação\C#\Add-Binary\obj\Debug\net7.0\refint\Add-Binary.dll
+C:\Users\trigo\Programação\C#\Add-Binary\obj\Debug\net7.0\Add-Binary.pdb
+C:\Users\trigo\Programação\C#\Add-Binary\obj\Debug\net7.0\Add-Binary.genruntimeconfig.cache
+C:\Users\trigo\Programação\C#\Add-Binary\obj\Debug\net7.0\ref\Add-Binary.dll
